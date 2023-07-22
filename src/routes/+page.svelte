@@ -92,9 +92,9 @@
 				<li>
 					Ensure curriculum and schedule quality through assessments and feedback implementation
 				</li>
-				<li>Lead courses and activites for children and young adults between 11-20</li>
+				<li>Lead courses and activites for children and young adults</li>
 				<li>Lead and mentor a team of educators</li>
-				<li>Develop hackathons and techincal soltuions for SPACE Academy</li>
+				<li>Develop hackathons and techincal solutions for SPACE Academy</li>
 			</ul>
 
 			<br />
@@ -104,7 +104,7 @@
 				<p>October 2022 — April 2023</p>
 			</div>
 			<ul>
-				<li>Lead courses and activites for children and young adults between 11-20</li>
+				<li>Lead courses and activites for children and young adults</li>
 				<li>Develop material and implement improvements based on feedback</li>
 				<li class="award">
 					<i class="fa-solid fa-trophy active" /> Helped earn SPACE Academy the Competence Award at TechSverige
