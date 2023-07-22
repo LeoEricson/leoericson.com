@@ -37,6 +37,7 @@
 				class="square"
 				target="_blank"
 				rel="noopener nofollow"
+				aria-label="See my LinkedIn"
 			>
 				<i class="fa-brands fa-linkedin-in" />
 			</a>
@@ -45,6 +46,7 @@
 				class="square"
 				target="_blank"
 				rel="noopener nofollow"
+				aria-label="See my GitHub"
 			>
 				<i class="fa-brands fa-github" />
 			</a>
