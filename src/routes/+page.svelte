@@ -10,10 +10,6 @@
 	});
 </script>
 
-<svelte:head>
-	<title>Leo Ericson — Dev & SysAdmin</title>
-</svelte:head>
-
 <header class="row">
 	<p>Leo Ericson</p>
 	<div class="row">
