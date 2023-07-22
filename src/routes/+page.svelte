@@ -13,7 +13,7 @@
 <header class="row">
 	<p>Leo Ericson</p>
 	<div class="row">
-		<a href="#portfolio">Portfolio</a>
+		<!--<a href="#portfolio">Portfolio</a>-->
 		<a href="#experience">Experience</a>
 		<a href="#education">Education</a>
 	</div>
