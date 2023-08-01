@@ -88,13 +88,14 @@
 				<p>April 2023 — Current</p>
 			</div>
 			<ul>
-				<li>Design and implement curriculas and schedules based on course goals</li>
-				<li>
-					Ensure curriculum and schedule quality through assessments and feedback implementation
-				</li>
-				<li>Lead courses and activites for children and young adults</li>
+				<li>Lead tech and design courses and activites for children and young adults</li>
+				<li>Develop material and revise based on feedback</li>
 				<li>Lead and mentor a team of educators</li>
 				<li>Develop hackathons and techincal solutions for SPACE Academy</li>
+				<li class="award">
+					<i class="fa-solid fa-trophy active" /> Helped earn SPACE Academy the Competence Award at TechSverige
+					2023
+				</li>
 			</ul>
 
 			<br />
@@ -105,11 +106,6 @@
 			</div>
 			<ul>
 				<li>Lead courses and activites for children and young adults</li>
-				<li>Develop material and implement improvements based on feedback</li>
-				<li class="award">
-					<i class="fa-solid fa-trophy active" /> Helped earn SPACE Academy the Competence Award at TechSverige
-					2023
-				</li>
 			</ul>
 		</div>
 	</div>
@@ -123,11 +119,8 @@
 			</div>
 
 			<ul>
-				<li>
-					Lead the techincal team consisting of network engineers, system admins and developers.
-				</li>
-				<li>Re-architectured the network and vm infrastructure</li>
-				<li>Developed scripts for maintaining and updating components of infrastructure.</li>
+				<li>Lead the techincal team consisting of network engineers, system admins and developers.</li>
+				<li>Responsibilities include achieving KPIs, quality assurance, and development.</li>
 			</ul>
 
 			<br />
@@ -138,9 +131,10 @@
 			</div>
 
 			<ul>
+				<li>Server operations, handling a wide range of issues through FLS (First line support).</li>
+				<li>Conducting troubleshooting and resolving problems.</li>
 				<li>Deployed, configured and maintained virtual machines and containers</li>
 				<li>Deployed internal DNS and an internal certificate authority</li>
-				<li>Optimized and maintained hypervisors and servers</li>
 			</ul>
 		</div>
 	</div>
